@@ -1,8 +1,9 @@
 # 🌸 Javascript 2025
 
-<h1> Introdução </h1>
+# Introdução
 
-<h1> O que é Javascript? <h1>
-<p>Portanto, podemos definir Javasscript de muitas  maneiras diferentes. Javascipr é linguagem de high level, orientada a objeto, linguagem de programacao. </p>
+## O que é Javascript?
 
-Javascript permitecódigo que instruir;a um computador a fzaer algo e esse é o nosso principal objetivo ao usar Javascript. certo?
+Podemos definir Javasscript de muitas maneiras diferentes. Javascript é uma linguagem de high level, orientada a objeto.
+
+Javascript permite código que instrui a um computador a fazer algo e esse é o nosso principal objetivo ao usar Javascript.
